@@ -1,0 +1,6 @@
+D:/nodeFolder/
+mkdir newFolder
+mkdir newFolder2
+rmdir newFolder2
+npm install
+nodemon server.js
