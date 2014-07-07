@@ -29,7 +29,7 @@ namespace autoInstall
             {
                 processSetup();                                                     // setup the process below
 
-                string workingDirectory = file.ReadLine();                          // read the working directory from the file's first line
+                string workingDirectory = file.ReadLine();                          // read working directory from the file's first line
                 process.StartInfo.WorkingDirectory = workingDirectory;
 
                 string commands = file.ReadLine();                                  // read all the commands
