@@ -7,7 +7,8 @@ Documentation
 =============
 
 The main program has been commented throughout. However, any queries and improvements would be most welcome.
-Other than that, the syntax of "input.txt" is this
+Other than that, the syntax of "input.txt" is this:
+
 The first line contains the path of the Working Directory.
 The rest of the lines contain the commands to be run on the CMD.
 
